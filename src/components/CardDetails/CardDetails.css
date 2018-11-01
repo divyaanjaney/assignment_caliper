@@ -1,0 +1,179 @@
+.border-effect {
+  -webkit-box-shadow: 1px 1px 2px 2px lightgrey !important;
+  padding-bottom: 14px !important;
+  border-radius: 4px !important;
+  margin-left: 18px !important;
+  width: 48% !important;
+
+}
+
+.card-row {
+  margin: 17px 2px !important;
+}
+
+.text-alignment {
+  color: red !important;
+  margin-top: 10px !important;
+  font-size: medium !important;
+}
+.text-alignment-ship {
+  color: #d544de!important;
+  margin-top: 10px !important;
+  font-size: medium !important;
+}
+
+.text-alignment-detection {
+  color:black !important;
+  margin-top: 10px !important;
+  font-size: medium !important;
+}
+
+.text-alignment svg {
+  margin-right: 8px !important;
+}
+
+.text-alignment-detection svg {
+  margin-right: 8px !important;
+}
+
+.text-alignment-ship svg {
+  margin-right: 8px !important;
+}
+
+.text-border {
+  border-left: 4px solid red;
+  padding-bottom: 29px;
+}
+
+.text-border-ship {
+  border-left: 4px solid #d544de!important;
+  padding-bottom: 29px;
+}
+
+.text-border-detection {
+  border-left: 4px solid black;
+  padding-bottom: 29px;
+}
+
+.left-text-alignment {
+  margin-left: 139px;
+  color: black;
+}
+
+.detection-text-alignment {
+  margin-left: 139px;
+  color: black;
+}
+
+.ship-text-alignment {
+  margin-left: 139px;
+  color: black;
+}
+
+.left-text-alignment span {
+  margin-left: 6px;
+  text-align: center;
+  background-color:#eab6b6;
+  padding: 2px 11px;
+  border-radius: 10px;
+  color: #ef0707;
+  font-size: large;
+}
+
+
+.ship-text-alignment span {
+  margin-left: 6px;
+  text-align: center;
+  background-color:#eaeae7;
+  padding: 2px 11px;
+  border-radius: 10px;
+  color: #d544de !important;
+  font-size: large;
+}
+
+.detection-text-alignment span{
+  margin-left: 6px;
+  text-align: center;
+  background-color:lightgrey;
+  padding: 2px 11px;
+  border-radius: 10px;
+  color:black;
+  font-size: large;
+}
+
+.border-effect-last {
+  -webkit-box-shadow: 1px 1px 2px 2px lightgrey !important;
+  padding-bottom: 37px !important;
+  border-radius: 4px !important;
+  margin-left: 18px !important;
+  width: 48% !important;
+}
+.border-effect-last-margin {
+  margin-top: 10px;
+}
+
+.missing-truck {
+  margin-top: 22px;
+}
+
+.border-div {
+  border-right: 1px solid lightgray;
+}
+
+.purple {
+  color: #d544de !important;
+}
+
+.view-button {
+  margin-top: 21px;
+  margin-bottom: 11px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid;
+  padding: 6px 17px;
+}
+
+.onTime-btn {
+  background-color: #d544de !important;
+  color: white;
+  margin-left: 8px;
+  padding: 1px 12px;
+  border-radius: 15px;
+}
+
+.text-border-tracking{
+  padding-bottom: 29px;
+  margin-left: -15px;
+  font-size: medium !important;
+}
+
+.lightgreen {
+  border-left: 4px solid lightgreen!important;
+  color: lightgreen !important;
+}
+
+.text-border-tracking svg {
+  margin: 15px 8px 0px 8px !important;
+}
+
+.tracking-btn {
+  border-color: lightgreen;
+  color: lightgreen;
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 5px 9px;
+  margin-top: 14px;
+}
+.view-btn {
+  border-color: #36e4ec;
+    color: #36e4ec;
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 5px 27px;
+    margin-top: 14px;
+}
+
+.lightbluegreen {
+  border-left: 4px solid #36e4ec!important;
+  color: #36e4ec !important;
+}

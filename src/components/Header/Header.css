@@ -1,0 +1,52 @@
+.headerIcon{
+		margin: 4px;
+		margin-left: -4px !important;
+    padding: 0px;
+    color: white;
+    background: #9524a9;
+    width: 4em!important;
+    height: 4rem!important;
+}
+
+.headerSearchIcon{
+    width: 4rem!important;
+    height: 3rem;
+    color: blue;
+    margin:10px;
+}
+
+.inputSearch{
+    margin-top: 2px;
+    border: none;
+    line-height: 4rem;
+    position: absolute;
+    width: 80%;
+    font-size: initial;
+    font-weight: bold;
+    font-family: monospace;
+    padding: 0px 10px;
+}
+
+.headerDropdown{
+    top: -25px;
+}
+
+.headerDropdown button{
+    line-height: 4rem;
+    background: white;
+    color: grey;
+    border: none;
+		font-size: large;
+		border-right: 1.2px solid lightgrey
+}
+
+.headerNotification{
+    float: right;
+    height: 4rem;
+    width: 2rem!important;
+    color: blue;
+    margin: 5px;
+}
+.header-margin{
+	margin-top: -6px !important;
+}

@@ -1,0 +1,22 @@
+.input-text{
+  width:100% !important;
+  border-color: lightgrey;
+  padding: 0px 27px !important;
+  border-radius: 4px !important;
+}
+
+.search-input {
+ margin-top: 11px !important;
+}
+
+.search-icon{
+  position: absolute;
+  color: grey;
+  margin: 6px !important;
+}
+
+.search-card {
+  position: absolute;
+  color: grey;
+  margin: 5px -16px !important;
+}
