@@ -11,22 +11,22 @@ class App extends Component {
 
 	render() {
 		return (
-			<div>
-				<div className='headerMargin'>
-						<Header />
-				</div>
-				<div className='row'>
-					<div className='col-md-1 col-padding'>
-						<NavBar />
+				<div className='container'>
+					<div className='headerMargin'>
+							<Header />
 					</div>
-					<div className='col-md-11 col-padding'>
-						<Tabs />
-						<Search />
-						<Card />
-						<CardDetails/>
+					<div className='row container'>
+						<div className='col-md-1 col-padding'>
+							<NavBar />
+						</div>
+						<div className='col-md-11 col-padding'>
+							<Tabs />
+							<Search />
+							<Card />
+							<CardDetails/>
+						</div>
 					</div>
-				</div>
-			</div>
+					</div>
 		);
 	}
 }

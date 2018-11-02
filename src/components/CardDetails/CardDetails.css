@@ -56,17 +56,17 @@
 }
 
 .left-text-alignment {
-  margin-left: 139px;
+  margin-left: 121px;
   color: black;
 }
 
 .detection-text-alignment {
-  margin-left: 139px;
+  margin-left: 121px;
   color: black;
 }
 
 .ship-text-alignment {
-  margin-left: 139px;
+  margin-left: 121px;
   color: black;
 }
 
@@ -103,7 +103,7 @@
 
 .border-effect-last {
   -webkit-box-shadow: 1px 1px 2px 2px lightgrey !important;
-  padding-bottom: 37px !important;
+  padding-bottom: 48px !important;
   border-radius: 4px !important;
   margin-left: 18px !important;
   width: 48% !important;

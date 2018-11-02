@@ -4,7 +4,7 @@ import './Card.css';
 class Card extends Component {
   render() {
     return (
-      <div className='row card-row' >
+      <div className='row card-row conatiner' >
         <div className='col-md-2 col-card'>
             <div>
             <div>TOTAL TRIPS</div>
@@ -26,7 +26,6 @@ class Card extends Component {
             </div>
             </div>
         </div>
-        <span className='tracked-text'>TRACKED</span>
          <div className='col-md-2 col-card-child col-card-child1'>
           <div>ON-TIME</div>
             <div className='row border-row'>

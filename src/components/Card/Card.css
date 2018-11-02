@@ -1,7 +1,7 @@
 
 .col-card {
   border: 1px solid lightgrey;
-  padding: 57px;
+  padding: 44px;
   background-color: blue;
   border-radius: 7px;
   margin-right: 10px !important;
@@ -14,11 +14,11 @@
 
 .col-card-child {
   border: 1px solid lightgrey;
-  padding: 35px !important;
+  padding: 31px !important;
   border-radius: 7px;
   margin-top: 45px !important;
   margin-right: 7px !important;
-  width: 15.95% !important;
+  width: 15.8% !important;
   color: white;
 }
 
@@ -60,3 +60,5 @@
   position: absolute;
   margin-left: -827px !important;
 }
+
+

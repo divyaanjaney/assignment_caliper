@@ -5,7 +5,7 @@ import './Search.css';
 
 const search = () => {
   return (
-    <div className='row search-input'>
+    <div className='row search-input conatiner'>
       <div className='col-md-4'>
         <FontAwesomeIcon icon={faSearch} className='search-icon'/>
         <input type='text' className='input-text' placeholder='Select transporter'/>

@@ -1,6 +1,6 @@
 .headerIcon{
-		margin: 4px;
-		margin-left: -4px !important;
+    margin: 4px;
+    margin-left: -4px !important;
     padding: 0px;
     color: white;
     background: #9524a9;
@@ -20,7 +20,7 @@
     border: none;
     line-height: 4rem;
     position: absolute;
-    width: 80%;
+    width: 61%;
     font-size: initial;
     font-weight: bold;
     font-family: monospace;

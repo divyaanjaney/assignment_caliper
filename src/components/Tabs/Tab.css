@@ -1,6 +1,6 @@
 .all-btn {
   background-color: blue;
-  width: 20%;
+  width: 19%;
   color: white;
   border-radius: 7px 0px 0px 7px;
   border: 1.4px solid lightgrey;
@@ -8,7 +8,7 @@
 
 .middle-btn {
   background-color: white;
-  width: 20%;
+  width: 19%;
   color: blue;
   border-radius:0px;
   border: 1.4px solid lightgrey;
@@ -16,19 +16,19 @@
 
 .end-btn {
   background-color: white;
-  width: 20%;
+  width: 19%;
   color: blue;
   border-radius:0px 7px 7px 0px;
   border: 1.4px solid lightgrey;
 }
 
 .button-tabs {
-  margin-top: 22px !important;
+  margin-top: 34px !important;
 }
 
 .secondStartBtn{
   background-color: blue;
-  width: 50%;
+  width: 48%;
   color: white;
   border-radius: 7px 0px 0px 7px;
   border: 1.4px solid lightgrey;
@@ -36,8 +36,16 @@
 
 .secondEndBtn {
   background-color: white;
-  width: 50%;
+  width: 48%;
   color: blue;
   border-radius:0px 7px 7px 0px;
   border: 1.4px solid lightgrey;
+}
+
+.tabs-margin {
+  margin-left: -17px !important;
+}
+
+.tabs-margin-right {
+  margin-left: -47px !important;
 }

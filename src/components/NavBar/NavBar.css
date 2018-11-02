@@ -1,9 +1,9 @@
 .navbar {
   width: 60% !important;
   background-color: #2c42de;
-  overflow: auto;
   border-radius: 0px !important;
   margin-top: 23px !important;
+  margin-left: -5px !important;
 }
 
 /* Navbar links */

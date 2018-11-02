@@ -6,7 +6,7 @@ import './CardDetails.css';
 
 const CardDetails = () => {
   return (
-    <div>
+    <div className='conatiner'>
       <div className='row card-row'>
         <div className='col-md-6 border-effect'>
           <div class='row text-border'>
